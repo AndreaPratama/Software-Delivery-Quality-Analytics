@@ -249,6 +249,8 @@ Design choices:
 - **ZoomCharts Facet Chart (Releases with Incidents by Team):** compares incidents and cost by team.
 - **Priority table:** product, module, critical defect rate, incident-affected release rate, resolution time, **Business Impact Priority Score** and **Recommended Action**, with conditional formatting.
 
+![Dashboard](Poster_Software_Delivery_Dashboard.png)
+
 **Key insights**
 
 - **The business cost is concentrated.** Downtime of 194 hours costs about **$2.95M**, or about $13.5K per incident. The Platform and Commerce product groups hold **73%** of that cost. The 10 most expensive product modules carry **85%**.
