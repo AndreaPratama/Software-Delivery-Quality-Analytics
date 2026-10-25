@@ -4,11 +4,8 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-0078D4)
 ![ZoomCharts](https://img.shields.io/badge/ZoomCharts-Drill%20Down%20Visuals-6C5CE7)
 
-> A two-page Power BI report built for the **ZoomCharts Power BI Challenge**. It shows whether software updates ship on time, how good they are, and where production problems cost the business the most.
-
 <!-- Add your dashboard screenshots to /images and update the paths below -->
-![Release Performance](images/page1-release-performance.png)
-![Business Impact](images/page2-business-impact.png)
+![Release Performance](hero.png)
 
 ---
 
@@ -291,11 +288,5 @@ The company is getting better at delivering on time, and the cost of downtime fe
 
 ## Project contents
 
-- `Software Delivery & Quality Analytics.pbip`: Power BI project (semantic model and report).
-- `images/`: dashboard screenshots.
+- `Software Delivery & Quality Analytics.pbix`: Power BI project.
 - `README.md`: this documentation.
-
-## Related resources
-
-- [ZoomCharts Power BI Challenge](https://zoomcharts.com/)
-- [ZoomCharts Drill Down Visuals for Power BI](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/)
