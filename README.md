@@ -249,6 +249,8 @@ Design choices:
 - **ZoomCharts Facet Chart (Releases with Incidents by Team):** compares incidents and cost by team.
 - **Priority table:** product, module, critical defect rate, incident-affected release rate, resolution time, **Business Impact Priority Score** and **Recommended Action**, with conditional formatting.
 
+You can interact with report here [4U Reports]()
+
 ![Dashboard](Poster_Software_Delivery_Dashboard.png)
 
 **Key insights**
